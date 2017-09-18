@@ -1,0 +1,8 @@
+{
+  "name": "sendFileClientServer",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-fileupload": "^0.2.0"
+  }
+}
